@@ -7,7 +7,7 @@
 
 ## **Preview:**
 
-
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/20127375/64580145-30866e80-d37d-11e9-9785-4058e8d733bd.gif)
 
 ## **Bugs:**
 
